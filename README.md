@@ -1,4 +1,4 @@
-# Task-1-Fouad-Mamdouh
+# Task-1
 #Data cleaing & prepairing
 Here's a summary of what this dataset is and what needs cleaning:
 What it is: An e-commerce orders dataset with 1,200 transactions spanning January 2023 to June 2025. It covers 7 product types (Laptop, Phone, Tablet, Monitor, Chair, Printer, Desk), 5 payment methods, and 5 order statuses. It's clearly built for practicing sales/marketing analytics.
